@@ -29,7 +29,15 @@ Projeto isolado para curadoria de referências e apoio à comunicação das seis
 
 ## Status
 
-Estrutura pública inicial publicada. Hub, agentes, processo, mapa de unidades, arquivo geral, arquivos por unidade, documentação e template de votação estão prontos. A primeira rodada e os destinatários de votação ainda dependem de definição operacional.
+Estrutura pública em adaptação. A home foi redesenhada com referência visual no site oficial do Objetivo Baixada, preservando a operação editorial independente: hub, agentes, processo, mapa de unidades, arquivo geral, arquivos por unidade, documentação e template de votação.
+
+Antes de anunciar a página como publicada, validar o build do GitHub Pages e a URL pública após o commit.
+
+## Referência visual
+
+- Site institucional consultado: https://objetivobaixada.com.br/
+- Elementos adotados como referência: azul institucional, acentos vermelho/amarelo, navegação por níveis de ensino, destaque para unidades e linguagem de rede.
+- A curadoria não replica textos institucionais nem substitui o site oficial.
 
 ## Próximos dados necessários
 
