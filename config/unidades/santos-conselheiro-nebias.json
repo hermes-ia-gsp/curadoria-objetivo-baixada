@@ -1,0 +1,12 @@
+{
+  "name": "Santos — Conselheiro Nébias",
+  "slug": "santos-conselheiro-nebias",
+  "location": "Região da avenida Conselheiro Nébias, Santos",
+  "segments": ["Ensino Médio — 1ª à 3ª série"],
+  "positioning": "Uma trajetória de Ensino Médio que transforma preparo em possibilidades reais.",
+  "territories": ["Preparação com método", "Professores e percurso acadêmico", "Resultados com provas", "Protagonismo do estudante", "Possibilidades internacionais no Ensino Médio"],
+  "persona": "Pais de adolescentes e jovens que valorizam desempenho, professores, clima de turma, repertório e orientação sobre o futuro.",
+  "2027_english": ["Regular com inglês voltado a competências pertinentes a ENEM/vestibulares", "English Class", "High School Dual Diploma, conforme critérios e elegibilidade"],
+  "hooks": ["O próximo passo pede método, apoio e objetivos claros.", "Toda conquista começa muito antes do resultado.", "Ensino Médio com possibilidades que atravessam fronteiras."],
+  "specific_constraints": ["Exclusivamente Ensino Médio.", "Não oferecer Fundamental II, turma de 8º/9º ou pré-vestibular autônomo.", "Não prometer aprovação, diploma automático ou equivalência irrestrita."]
+}

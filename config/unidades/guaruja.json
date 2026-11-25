@@ -1,0 +1,12 @@
+{
+  "name": "Guarujá",
+  "slug": "guaruja",
+  "location": "Guarujá",
+  "segments": ["Educação Infantil", "Fundamental I", "Fundamental II", "Ensino Médio"],
+  "positioning": "Uma escola próxima da família, com atenção ao percurso de cada aluno.",
+  "territories": ["Cuidado que se percebe", "Proximidade com a família", "Segurança comunicada com transparência", "Evolução dos espaços", "Experiências bilíngues e caminhos futuros"],
+  "persona": "Famílias do Guarujá que priorizam confiança, comunicação acessível e segurança cotidiana.",
+  "2027_english": ["Regular Bilíngue", "Semi-integral Bilíngue", "Integral Bilíngue", "English Class", "High School Prep", "High School Dual Diploma"],
+  "hooks": ["Seu filho cresce. Nossa atenção acompanha cada etapa.", "Confiança começa nos detalhes da rotina.", "O inglês entra no dia a dia de diferentes formas."],
+  "specific_constraints": ["Evitar segurança total ou atenção individualizada ilimitada.", "Confirmar protocolos e equipamentos antes de citá-los."]
+}

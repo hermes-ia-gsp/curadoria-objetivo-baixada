@@ -1,0 +1,12 @@
+{
+  "name": "São Vicente",
+  "slug": "sao-vicente",
+  "location": "São Vicente",
+  "segments": ["Educação Infantil", "Fundamental I", "Fundamental II", "Ensino Médio"],
+  "positioning": "Organização, acolhimento e consistência para cada etapa da formação.",
+  "territories": ["Disciplina com acolhimento", "Hábitos de estudo", "Evolução observável", "Resultados contextualizados", "Trilhas de inglês por etapa"],
+  "persona": "Famílias que valorizam disciplina positiva, clareza de acompanhamento e bom preparo.",
+  "2027_english": ["Regular", "Integral Bilíngue", "English Class", "Semi-integral Bilíngue"],
+  "hooks": ["Aprender a estudar é uma conquista para a vida toda.", "Formação consistente, sem perder de vista a pessoa.", "Mais possibilidades para o inglês acompanhar o aprendizado."],
+  "specific_constraints": ["Não anunciar Regular Bilíngue universal.", "Não divulgar disciplinas do semi-integral ainda marcadas como a definir."]
+}

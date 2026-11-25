@@ -1,0 +1,12 @@
+{
+  "name": "Santos — Ponta da Praia",
+  "slug": "santos-ponta-da-praia",
+  "location": "Ponta da Praia, Santos",
+  "segments": ["Educação Infantil", "Fundamental I", "Fundamental II", "Ensino Médio"],
+  "positioning": "Aprendizagem forte em sala e experiências que ampliam repertórios fora dela.",
+  "territories": ["Experiências com propósito", "Tecnologia e protagonismo", "Esporte e desenvolvimento", "Acadêmico sólido", "Internacionalização com evidências"],
+  "persona": "Famílias que valorizam variedade de experiências, esporte e tecnologia sem abrir mão da formação acadêmica.",
+  "2027_english": ["Regular Bilíngue", "Semi-integral Bilíngue", "Integral Bilíngue", "English Class", "High School Prep", "High School Dual Diploma"],
+  "hooks": ["Aprender também é experimentar, testar e descobrir.", "Cada experiência pode ampliar o caminho de um aluno.", "Uma formação com novas conexões com o mundo."],
+  "specific_constraints": ["Não afirmar que todas as modalidades incluem robótica, esporte, intercâmbio ou bilinguismo."]
+}

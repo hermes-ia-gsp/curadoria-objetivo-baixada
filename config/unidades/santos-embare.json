@@ -1,0 +1,12 @@
+{
+  "name": "Santos — Embaré",
+  "slug": "santos-embare",
+  "location": "Embaré, Santos",
+  "segments": ["Educação Infantil", "Fundamental I", "Fundamental II até o 9º ano"],
+  "positioning": "Um começo acolhedor com continuidade de desenvolvimento até o 9º ano.",
+  "territories": ["Acolhimento e adaptação", "Pertencimento e relações", "Aprendizagem adequada à etapa", "Continuidade até o 9º ano", "Inglês vivenciado na rotina"],
+  "persona": "Famílias que procuram adaptação tranquila, comunicação cotidiana e continuidade até o 9º ano.",
+  "2027_english": ["Regular Bilíngue", "Semi-integral Bilíngue", "Integral Bilíngue", "High School Prep no 8º–9º, conforme elegibilidade"],
+  "hooks": ["O começo da vida escolar merece atenção a cada detalhe.", "Do primeiro contato com a escola aos desafios do 9º ano.", "Aprender inglês também pode acontecer brincando, criando e explorando."],
+  "specific_constraints": ["Não oferece Ensino Médio.", "Não insinuar ENEM, pré-vestibular ou Ensino Médio próprio."]
+}

@@ -1,0 +1,58 @@
+{
+  "brand": "Colégio Objetivo | Baixada Santista",
+  "slug": "objetivo-baixada",
+  "planning_year": 2027,
+  "language": "pt-BR",
+  "units": [
+    "praia-grande",
+    "sao-vicente",
+    "guaruja",
+    "santos-ponta-da-praia",
+    "santos-embare",
+    "santos-conselheiro-nebias"
+  ],
+  "shared_message": "Qual é o seu Objetivo?",
+  "shared_tone": ["seguro", "humano", "próximo", "contemporâneo", "claro", "aspiracional"],
+  "shared_rules": [
+    "usar provas concretas e não apenas atributos",
+    "tratar perfis de público como hipóteses até validação em CRM, entrevistas e Comercial",
+    "não inventar métricas, resultados ou disponibilidade",
+    "não anunciar oferta 2027 como universalmente disponível antes da chancela",
+    "não usar melhor escola, 100% de aprovação, garante fluência, segurança total ou vaga garantida sem prova formal",
+    "usar crianças e adolescentes somente com autorização específica de imagem",
+    "não usar banco de imagem ou IA como se fossem alunos reais",
+    "não compartilhar material interno com famílias"
+  ],
+  "curation_defaults": {
+    "references_per_run": {"min": 5, "max": 10},
+    "public_sources_only": true,
+    "instagram_tiktok_post_metrics": "unavailable_without_authenticated_access",
+    "required_fields": ["unidade", "segmento", "dor", "ângulo", "prova", "hook", "formato", "CTA", "status_de_verificação"]
+  },
+  "publication": {
+    "repository": null,
+    "pages_base_url": null,
+    "custom_domain": null,
+    "deploy_key": null
+  },
+  "email": {
+    "sender": null,
+    "marketing_coordinator": {
+      "name": "Juliana",
+      "role": "Coordenadora de Marketing do Objetivo Baixada",
+      "email": "juliana.mendonca@objetivobaixada.com.br"
+    },
+    "recipients": ["juliana.mendonca@objetivobaixada.com.br"],
+    "unit_recipients": {}
+  },
+  "agent_inboxes": {
+    "tico": "tico@greatschools.com.br",
+    "teco": "teco@greatschools.com.br",
+    "same_inbox_allowed": false,
+    "routing_rule": "Votos para o Teco; orientações e pedidos de pesquisa para o Tico."
+  },
+  "automation": {
+    "curation_schedule": null,
+    "comment_monitor": null
+  }
+}

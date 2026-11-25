@@ -1,0 +1,12 @@
+{
+  "name": "Praia Grande",
+  "slug": "praia-grande",
+  "location": "Praia Grande",
+  "segments": ["Educação Infantil", "Fundamental I", "Fundamental II", "Ensino Médio"],
+  "positioning": "Uma jornada escolar consistente, perto de casa, da infância ao Ensino Médio.",
+  "territories": ["Tradição que evolui", "Jornada completa no município", "Aprendizagem e acompanhamento", "Preparação para o próximo passo", "Caminhos bilíngues por segmento"],
+  "persona": "Famílias que comparam valor percebido, deslocamento, estrutura e resultados.",
+  "2027_english": ["Regular Bilíngue", "Semi-integral Bilíngue", "Integral Bilíngue", "English Class", "High School Prep", "High School Dual Diploma"],
+  "hooks": ["Uma jornada de aprendizagem para diferentes fases da vida.", "Grandes objetivos começam na sua cidade.", "Inglês em experiências reais de aprendizagem."],
+  "specific_constraints": ["Não comparar com unidades de Santos sem dados auditáveis.", "Não anunciar ENEM melhor da cidade sem fonte e ano."]
+}
