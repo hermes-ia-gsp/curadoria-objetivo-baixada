@@ -14,7 +14,8 @@
 const archive = 'https://hermes-ia-gsp.github.io/curadoria-objetivo-baixada/arquivo/geral/2026-11-18-piloto/';
 const enc = encodeURIComponent;
 document.querySelectorAll('.content-card').forEach(card => {
-  const i = card.dataset.index;
+  const i = Number(card.dataset.index) + 1;
+  card.querySelector('h3').textContent = card.querySelector('h3').textContent.replace(/^\d+\./, i + '.');
   const title = card.dataset.title;
   const source = card.dataset.source;
   const why = card.dataset.why;
